@@ -31,6 +31,11 @@ Você precisa ter experiência sólida em desenvolvimento com Ruby on Rails, con
 - Ambiente Startup
 - Maior parte do trabalho será remoto, porém com possiveis encontros presenciais 
 
+## Salário
+---
+
+Nos envie uma proposta de salário.
+
 *Estamos a procura de candidatos em São Paulo devido a possiveis encontros presenciais, mas estamos abertos a trabalhar com pessoas remotas e home-office.*
 
 ## Como se canditadar
@@ -40,4 +45,5 @@ Se você tem um perfil que se encaixa com o que procuramos, envie um e-mail para
 - Fale um pouco sobre você e suas skills
 - Link ou portfólio de projetos feitos ou participados
 - Currículo ou LinkedIn
+- Pretensão Salarial
 - Endereço do GitHub
