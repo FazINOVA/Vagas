@@ -24,7 +24,7 @@ Crie um template estático, baseado no layout fornecido, atendendo aos seguintes
 
 ### 2. Desenvolver sistema de inscrição
 
-Crie uma sistema para o usuário se inscrerver no evento atendendo aos seguintes critérios:
+Crie uma sistema para o usuário se inscrever no evento atendendo aos seguintes critérios:
 
  - o usuário deve conseguir se inscrever informando a sua "Cidade", "Nome", "Email" e "Telefone".
  - o email de cadastro deve ser único, caso o email já exista o usuário deve ser notificado informando que este email já possui uma inscrição
