@@ -18,7 +18,7 @@ O resultado final da página deve ficar de acordo com o mockup abaixo, todas as 
 Crie um template estático, baseado no layout fornecido, atendendo aos seguintes critérios:
 
  - utilize o código do arquivo resources/cities.erb para criar o seu dropdown de cidades
- - utilize o código <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'> para utilizar a fonte open sans no layout
+ - utilize a fonte Open Sans do Google Fonts para os textos da página
  - a sua página deve ser responsiva ou seja, se adaptar para qualquer dispositivo web, você pode utilizar frameworks como bootstrap para auxiliar na criação da página responsiva
  - faça com que sua página traga uma experiência agradável a qualquer pessoa, independentemente do dispositivo que ela estiver utilizando para ver sua página
 
