@@ -1,6 +1,6 @@
 # Rails Challenge
 
-Criar uma landing page com formulário de inscrição para um evento e listar as inscrições em uma página com autenticação.
+Criar uma landing page com formulário de inscrição para um evento e liste as inscrições em uma página com autenticação.
  
 ## Desafio
 
